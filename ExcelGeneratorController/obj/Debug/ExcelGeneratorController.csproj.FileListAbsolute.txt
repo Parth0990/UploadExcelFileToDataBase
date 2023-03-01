@@ -83,3 +83,8 @@ C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\bi
 C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\obj\Debug\ExcelGeneratorController.csproj.CopyComplete
 C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\obj\Debug\ExcelGeneratorController.dll
 C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\obj\Debug\ExcelGeneratorController.pdb
+C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\bin\Syncfusion.Compression.Portable.dll
+C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\bin\Syncfusion.Licensing.dll
+C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\bin\Syncfusion.XlsIO.Portable.dll
+C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\bin\Syncfusion.Compression.Portable.xml
+C:\Users\admin\source\repos\ExcelGeneratorController\ExcelGeneratorController\bin\Syncfusion.XlsIO.Portable.xml
